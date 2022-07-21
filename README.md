@@ -5,9 +5,9 @@
 
 ## Soon to be a Front End developers!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate with anybody!
-- 🥅 2022 Goals: Learn ReactJS
+- 🥅 2022 Goals: Learn React and Vue
 - ⚡ Fun fact: I love anime and poetry
 
 
