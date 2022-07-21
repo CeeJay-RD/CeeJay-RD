@@ -27,13 +27,18 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+
 <br>
 
 ### :zap:  Stats
 
-  <img align="left" alt="Kamajird's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamajiRd&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
-  
-  
-</br>
+  <img align="" alt="Kamajird's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamajiRd&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
 
+
+### :notebook_with_decorative_cover: Most used languages
+
+  <img align="" alt="Kamajird's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamajiRd&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
+
+
+  
 
