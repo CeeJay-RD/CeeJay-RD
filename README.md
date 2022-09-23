@@ -3,11 +3,11 @@
 
 
 
-## Soon to be a Front End developers!!
+## Front End Geek
 
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate with anybody!
-- 🥅 2022 Goals: Learn React and Vue
+- 🌱 I’m looking to improve my NodeJS skills.
+- 📕 I’m looking to collaborate with anybody!
+- 🥅 I'm learing react at Codecademy.
 - ⚡ Fun fact: I love anime and poetry
 
 
