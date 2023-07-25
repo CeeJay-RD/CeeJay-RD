@@ -7,7 +7,6 @@
 
 - 🌱 I’m looking to improve my NodeJS skills.
 - 📕 I’m looking to collaborate with anybody!
-- 🥅 I'm learing react at Codecademy.
 - ⚡ Fun fact: I love anime and poetry
 
 
@@ -32,12 +31,12 @@
 
 ### :zap:  Stats
 
-  <img align="" alt="Kamajird's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamajiRd&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
+  <img align="" alt="CeeJay-RD's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CeeJay-RD&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
 
 
 ### :notebook_with_decorative_cover: Most used languages
 
-  <img align="" alt="Kamajird's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamajiRd&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
+  <img align="" alt="CeeJay-RD's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeeJay-RD&show_icons=true&hide_border=false&title_color=5582f6&icon_color=5582f6&bg_color=21325E&text_color=5582f6&border_color=3E497A" />
 
 
   
