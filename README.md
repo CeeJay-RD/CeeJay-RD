@@ -7,7 +7,6 @@
 
 - 🌱 I’m looking to improve my NodeJS skills.
 - 📕 I’m looking to collaborate with anybody!
-- ⚡ Fun fact: I love anime and poetry
 
 
 
